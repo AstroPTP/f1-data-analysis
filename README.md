@@ -71,6 +71,10 @@ This project is a **FIA Formula 1 Analysis Program** designed to allow users to 
 -   Ensure that the CSV file format remains consistent.
 -   Input validation is enforced to prevent incorrect data entries.
 
+## Contribution
+
+If you find any issues or have suggestions for improvements, feel free to open a pull request or create an issue.
+
 ## Author
 
 -   **Thanh Phu Phan** (21664322)
