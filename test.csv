@@ -1,0 +1,21 @@
+teamName,grandPrix,carCode,driverName,position,fastestLap
+red bull racing,australian,rb20,max verstappen,-1,205.50
+red bull racing,australian,rb20,sergio perez,5,80.388
+ferrari,japanese,sf-24,charles leclerc,4,95.044
+ferrari,japanese,sf-24,carlos sainz,3,93.841
+mercedes,australian,w15,george russell,17,80.284
+mercedes,australian,w15,lewis hamilton,-1,205.50
+aston martin,japanese,amr24,lance stroll,12,95.789
+aston martin,japanese,amr24,fernando alonso,6,94.726
+williams,miami,fw46,alexander albon,18,90.849
+williams,miami,fw46,logan sargeant,-1,205.50
+alpine renault,japanese,a524,esteban ocon,15,96.232
+alpine renault,japanese,a524,pierre gasly,16,96.642
+ferrari,australian,sf-24,charles leclerc,2,79.813
+ferrari,australian,sf-24,carlos sainz,1,80.031
+rb,miami,vcarb01,daniel ricciardo,15,92.122
+rb,miami,vcarb01,yuki tsunoda,7,91.682
+kick sauber,china,c44,valtteri bottas,-1,205.50
+kick sauber,china,c44,zhou guanyu,14,98.633
+rb,china,vcarb01,daniel ricciardo,-1,205.50
+rb,china,vcarb01,yuki tsunoda,-1,205.50
