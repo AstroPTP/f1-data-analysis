@@ -1,7 +1,9 @@
 /*
 Author: Thanh Phu Phan (21664322)
-Date: 22/04/2024
-Purpose: Get F1 Teams details
+Unit: Programming Desgin and Implementation
+Date: 26/04/2024
+Submitted date: 05/05/2024
+Purpose: Setting Teams
 */
 
 public class Team {

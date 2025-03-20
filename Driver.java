@@ -1,7 +1,9 @@
 /*
 Author: Thanh Phu Phan (21664322)
+Unit: Programming Desgin and Implementation
 Date: 26/04/2024
-Purpose: Get F1 Driver details
+Submitted date: 05/05/2024
+Purpose: Get F1 Drivers details
 */
 
 public class Driver {

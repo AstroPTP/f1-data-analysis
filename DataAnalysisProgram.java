@@ -1,3 +1,11 @@
+/*
+Author: Thanh Phu Phan (21664322)
+Unit: Programming Desgin and Implementation
+Date: 26/04/2024
+Submitted date: 05/05/2024
+Purpose: Analysis team by reading data from csv file
+*/
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;

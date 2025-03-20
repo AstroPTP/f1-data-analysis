@@ -1,3 +1,11 @@
+/*
+Author: Thanh Phu Phan (21664322)
+Unit: Programming Desgin and Implementation
+Date: 26/04/2024
+Submitted date: 05/05/2024
+Purpose: Getting data and write to csv file
+*/
+
 import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;

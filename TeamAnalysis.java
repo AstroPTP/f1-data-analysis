@@ -1,7 +1,9 @@
 /*
 Author: Thanh Phu Phan (21664322)
-Date: 29/04/2024
-Purpose: Get total time of each time, show team completed the race
+Unit: Programming Desgin and Implementation
+Date: 26/04/2024
+Submitted date: 05/05/2024
+Purpose: Analysis team performance
 */
 
 public class TeamAnalysis extends Team {
